@@ -1,16 +1,8 @@
 # bee_up_to_date
 
-A new Flutter project.
+An android application for helping beekeepers in general. 
 
-## Getting Started
+## General
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is written in Dart, using the Flutter framework. It has a minimal UI and a good UX.
+It also is Material 3 compliant (more info [here](https://m3.material.io/)).
